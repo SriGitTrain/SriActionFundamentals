@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-Trainer: @Sri
+Trainer: @Srievent1
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
