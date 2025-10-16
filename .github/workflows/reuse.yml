@@ -8,7 +8,7 @@ jobs:
     with: 
       who-to-greet: '@wulfland'
   use-output:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     needs: [call-workflow]
     steps:
       - run: echo "Time was ${{ needs.call-workflow.outputs.current-time }}"
